@@ -8,7 +8,8 @@ You can follow the next steps:
 Almost the same as previous error:
 - Check your game path, if your game is installed on `Program Files (x86)` this error might occur.
 - Change your game installation so somewhere without any special characters.
-Ex. `C:\Program Files (x86)\Genshin Impact\Genshin Impact game` to `C:\Program Files\Genshin Impact\Genshin Impact game`
+- 
+Example. `C:\Program Files (x86)\Genshin Impact\Genshin Impact game` to `C:\Program Files\Genshin Impact\Genshin Impact game`
 
 [Image](https://cdn.discordapp.com/attachments/1188177833865003069/1213512872773025862/image.png?ex=65f5beee&is=65e349ee&hm=c9cabb270c494a315a5621e99a765bc3e52b7cf9d6cc4b0afaa090299dc6ebf4&)
 ## [Tutorial]( https://youtu.be/NZhYB4Vxmlk?si=yPRP6dC2xMDUKDqm)
